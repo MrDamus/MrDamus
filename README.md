@@ -13,7 +13,7 @@
 
 ### Pinned repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MrDamus&repo=JS_ML&theme=great-gatsby&show_icons=true)](https://github.com/MrDamus/SpaceShooter)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MrDamus&repo=SpaceShooter&theme=great-gatsby&show_icons=true)](https://github.com/MrDamus/SpaceShooter)
 
 ### Connect with me:
 
