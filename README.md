@@ -54,4 +54,4 @@
 
 
 [website]: https://MrDamus.github.io/MrDamus/
-[linkedin]: https://www.linkedin.com/
+[linkedin]: https://www.linkedin.com/in/damian-karwowski-3aa222168/
