@@ -4,7 +4,7 @@
 
 ## I'm a JS Developer!
 
-- 🔭 I’m currently using React Native
+- 🔭 I’m currently using React
 - 🥅 2020 Goals: Work more, code more, learn more :)
 
 ### Github stats.
