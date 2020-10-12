@@ -1,6 +1,6 @@
 ### Hi there, I'm [Damian][website] 👋
 
-[![Website](https://img.shields.io/website?label=m-portfolio&style=for-the-badge&url=https://mrdamus.github.io/portfolio/)](https://mrdamus.github.io/portfolio/)
+[![Website](https://img.shields.io/website?label=m-portfolio&style=for-the-badge&url=https://mrdamus.github.io/portfolio1/)](https://mrdamus.github.io/portfolio1/)
 
 ## I'm a JS Developer!
 
